@@ -1,4 +1,4 @@
 webscraptest-node
 =================
 
-Tests de webscrapping avec nodejs
+Tests de webscrapping avec node.js
